@@ -1,4 +1,4 @@
-##this is just for practice.on how i learnt what FASTAPI is.
+##this is just for practice.on how i learnt what FASTAPI is. 
 
 from fastapi import FastAPI,Path, Query
 from typing import Optional
